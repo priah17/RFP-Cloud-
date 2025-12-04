@@ -7,11 +7,6 @@ A ready-to-use Request for Proposal (RFP) template and website plan to commissio
 # Executive summary
 We are seeking proposals from qualified vendors to design, build, test, deploy, and support a cloud-native customer support platform. The platform will provide multichannel ticketing (email, chat, phone, social), automation and workflow rules, knowledge base, customer portal, agent workspace, reporting/analytics, and integrations with our CRM and telephony. The system must be scalable, secure, compliant with applicable regulations, and maintainable by our engineering team.
 
-# Project Setup
-
-- Node.js >= 20
-- npm >= 9
-- MongoDB
 
 # Key Features
 
